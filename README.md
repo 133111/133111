@@ -31,11 +31,12 @@
 
 ```yaml
 Name      : hann_tech
-Role      : Web Dev & Network Tinkerer
-Pronoun   : he/him
-Status    : Beginner (but cursed energy growing)
+Role      : Web Dev, IOT, Network & linux enthusiast and guardian spirit of my desk at 12 am
+Mastered Things : Arduino/simple C++, PHP, native Markup, Javascript native
+Pronoun   : he/him/else
+Status    : Beginner, but in Web Dev i think im on intermediate level (but cursed energy growing)
 Location  : Indonesia 🇮🇩
-Hobby     : Arduino experiments & breaking stuff
+Hobby     : Arduino experiments & breaking stuff, Gaming (Sekiro Addict even i get stress of this)
 ```
 
 <br clear="right"/>
