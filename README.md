@@ -30,9 +30,12 @@
 ## 〔 Domain ⚡ 〕
 
 ```yaml
+Real Time Status
 Name      : hann_tech
-Role      : Web Dev, IOT, Network & linux enthusiast and guardian spirit of my desk at 12 am
-Mastered Things : Arduino/simple C++, PHP, native Markup, Javascript native
+Role      : Web Dev, IOT, Network & linux enthusiast and guardian spirit of my desk at midnight
+Tech Stack on Web DEV NATIVE Version  : htmlnsemantic, css, javaScript(little mastered), PHP, sql (for DB)
+non native : tailwind, laravel 10
+other : Git, Postman, mysql, maria db, phpmyadmin
 Pronoun   : he/him/else
 Status    : Beginner, but in Web Dev i think im on intermediate level (but cursed energy growing)
 Location  : Indonesia 🇮🇩
