@@ -32,8 +32,8 @@
 ```yaml
 Real Time Status
 Name      : hann_tech
-Role      : Web Dev, IOT, Network & linux enthusiast and guardian spirit of my desk at midnight
-Tech Stack on Web DEV NATIVE Version  : htmlnsemantic, css, javaScript(little mastered), PHP, sql (for DB)
+Role      : Web Dev, IOT, Network & linux enthusiast and a guardian spirit of my desk at midnight
+Tech Stack on Web DEV NATIVE Version  : htmlnsemantic, css, javaScript(a bit mastered), PHP, sql (for DB)
 non native : tailwind, laravel 10
 other : Git, Postman, mysql, maria db, phpmyadmin
 Pronoun   : he/him/else
