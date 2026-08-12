@@ -13,10 +13,10 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   "Jangan berhenti bergerak, sampai kutukan itu lenyap."        │
-│                                         — Yuji Itadori          │
-│                                                                  │
+│                                                                 │
+│   "---------------     Full Stack Dev     -------------------"  │
+│                                                                 │             
+│                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -47,7 +47,7 @@ Hobby     : Arduino experiments & breaking stuff, Gaming (Sekiro Addict even i g
 ---
 
 <!-- TECH STACK - MANGA PANEL STYLE -->
-## 〔 Cursed Techniques 🔮 〕
+## 〔 Stack Techniques 🔮 〕
 
 <div align="center">
 
