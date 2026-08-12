@@ -105,34 +105,12 @@ Hobby     : Arduino experiments & breaking stuff, Games, Web Build
 
 ---
 
-<!-- JJK SPECIAL SECTION -->
-## 〔 Character Data 🩸 〕
-
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║          ⚡ CURSED ENERGY PROFILE ⚡                     ║
-╠══════════════════════════════════════════════════════════╣
-║  Fav Anime  : Jujutsu Kaisen ♠                          ║
-║  Fav Char   : Gojo Satoru (obviously)                   ║
-║  Grade      : Grade 4 → working up to Special Grade     ║
-║  Technique  : Infinite Web Development                  ║
-║  Goal       : Build something that actually works       ║
-╚══════════════════════════════════════════════════════════╝
-```
+`
 
 </div>
-
----
-
-<!-- CURRENT PROJECTS -->
-## 〔 Active Missions 🎯 〕
-
-- ⚡ Belajar **PHP & Web Development** makin dalam **[my fav languange]**
-- 🔧 Eksperimen dengan **Arduino & Mikrokontroler lain [IOT]**
-- 🌐 Ngulik **Jaringan** & infrastruktur jaringan komputer
-- 📦 Nyoba-nyoba hal random yang kelihatannya keren
 
 ---
 
