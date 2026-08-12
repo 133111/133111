@@ -107,14 +107,7 @@ Hobby     : Arduino experiments & breaking stuff, Games, Web Build
 
 <div align="center">
 
-```
-`
 
-</div>
-
----
-
-<!-- SNAKE CONTRIBUTION -->
 ## 〔 Domain Expansion 🐍 〕
 
 <div align="center">
