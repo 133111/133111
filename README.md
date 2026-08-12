@@ -33,13 +33,12 @@
 Real Time Status
 Name      : hann_tech
 Role      : Web Dev, IOT, Network & linux enthusiast and a guardian spirit of my desk at midnight
-Tech Stack on Web DEV NATIVE Version  : htmlnsemantic, css, javaScript(a bit mastered), PHP, sql (for DB)
-non native : tailwind, laravel 10
-other : Git, Postman, mysql, maria db, phpmyadmin
+Languange Mastered  : html5, css, PHP, JS, sql, c++
+other tech : tailwind, laravel 10 & 11, Git
 Pronoun   : he/him/else
-Status    : Beginner, but in Web Dev i think im on intermediate level (but cursed energy growing)
+Status    : Beginner, but in Web Dev i think im on intermediate level
 Location  : Indonesia 🇮🇩
-Hobby     : Arduino experiments & breaking stuff, Gaming (Sekiro Addict even i get stress of this)
+Hobby     : Arduino experiments & breaking stuff, Games, Web Build
 ```
 
 <br clear="right"/>
