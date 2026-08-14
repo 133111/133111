@@ -20,7 +20,7 @@ Real Time Status
 Name      : hann_tech
 Role      : Web Dev, IOT, Network & linux player
 Languange Mastered  : html5, css, PHP, JS, sql, c++
-other tech : tailwind, laravel 10 & 11, Git
+other     : tailwind, figma. laravel(10&11), Git, mySql, MariaDB
 Pronoun   : he/him/else
 Status    : Students, beginner fullstack developer
 Location  : Indonesia 🇮🇩
