@@ -36,9 +36,9 @@ Role      : Web Dev, IOT, Network & linux player
 Languange Mastered  : html5, css, PHP, JS, sql, c++
 other tech : tailwind, laravel 10 & 11, Git
 Pronoun   : he/him/else
-Status    : Beginner, but in Web Dev i think im on intermediate level
+Status    : Students, beginner fullstack developer
 Location  : Indonesia 🇮🇩
-Hobby     : Arduino experiments & breaking stuff, Games, Web Build
+Hobby     : IOT experiments, study, Games, Web Build
 ```
 
 <br clear="right"/>
