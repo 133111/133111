@@ -27,12 +27,12 @@
 <!-- ABOUT ME SECTION - PANEL KOMIK -->
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ1eTZvYml0eGJkdXI2bXdlaDU1ZWJxcWswazljaG5ueDdkMHgxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RbDKaczqWovIugyJmW/giphy.gif" width="200px"/>
 
-## 〔 Domain ⚡ 〕
+## 〔 Profile ⚡ 〕
 
 ```yaml
 Real Time Status
 Name      : hann_tech
-Role      : Web Dev, IOT, Network & linux enthusiast and a guardian spirit of my desk at midnight
+Role      : Web Dev, IOT, Network & linux player
 Languange Mastered  : html5, css, PHP, JS, sql, c++
 other tech : tailwind, laravel 10 & 11, Git
 Pronoun   : he/him/else
@@ -95,7 +95,7 @@ Hobby     : Arduino experiments & breaking stuff, Games, Web Build
 ---
 
 <!-- ACTIVITY GRAPH -->
-## 〔 Cursed Energy Graph ⚡ 〕
+## 〔 Energy Graph ⚡ 〕
 
 <div align="center">
 
