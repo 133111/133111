@@ -24,7 +24,7 @@ other     : tailwind, figma. laravel(10&11), Git, mySql, MariaDB
 Pronoun   : he/him/else
 Status    : Students, beginner fullstack developer
 Location  : Indonesia 🇮🇩
-Hobby     : IOT experiments, study, Games, Web Build
+Hobby     : IOT experiments, learn, Gamers, Web Build
 ```
 
 <br clear="right"/>
